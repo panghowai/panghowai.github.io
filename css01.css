@@ -3,3 +3,13 @@ h1 {
    font-size  :3em;
    font-family:Arial;
 }
+h2 {
+   color      :blue;
+   font-size  :5em;
+   font-family:Arial;
+}
+h3 {
+   color      :yellow;
+   font-size  :2em;
+   font-family:Arial;
+}
