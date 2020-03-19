@@ -14,12 +14,12 @@ h3 {
    font-family:Arial;
 }
 div {
-  background-color: lightblue;
+  background-color: yellow;
   width: 200px;
   padding: 25px;
-  border: 25px solid navy;
+  border: 25px solid red;
   
   position: fixed;
-  bottom: 0;
-  right: 0;
+  top: 0;
+  left: 0;
 }
